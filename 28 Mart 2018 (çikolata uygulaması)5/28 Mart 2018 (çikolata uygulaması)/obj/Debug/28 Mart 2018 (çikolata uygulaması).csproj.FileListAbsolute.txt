@@ -1,0 +1,54 @@
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).exe.config
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).exe
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).pdb
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form1.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Properties.Resources.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csproj.GenerateResource.Cache
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).exe
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).pdb
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form2.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).exe.config
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).exe
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).pdb
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csprojAssemblyReference.cache
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form1.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form2.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Properties.Resources.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csproj.GenerateResource.cache
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).exe
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).pdb
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).exe.config
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).exe
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).pdb
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).exe
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).pdb
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form1.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form2.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form3.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Properties.Resources.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).exe.config
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).exe
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\bin\Debug\28 Mart 2018 (çikolata uygulaması).pdb
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csprojAssemblyReference.cache
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form1.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form2.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form3.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Properties.Resources.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csproj.GenerateResource.cache
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).exe
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\28 Mart 2018 (çikolata uygulaması).pdb
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form4.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Ürün.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.ÜrünTür.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Form4.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Ürün.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.ÜrünTür.resources
+C:\Users\smart.ogrenci\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Sipariş.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Sipariş.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Siparişİşlemleri.resources
+C:\Users\HP\Desktop\28 Mart 2018 (çikolata uygulaması)5\28 Mart 2018 (çikolata uygulaması)\obj\Debug\_28_Mart_2018__çikolata_uygulaması_.Fatura.resources
